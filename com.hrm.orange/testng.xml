@@ -5,6 +5,7 @@
     <classes>
       <class name="com.hrm.orange.TC001"/>
       <class name="com.hrm.orange.TC002"/>
+      <class name="com.hrm.orange.TC003"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
